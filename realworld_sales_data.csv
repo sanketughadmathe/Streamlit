@@ -1,0 +1,1001 @@
+Date,Product,Category,Sales,Quantity,Region
+2023-01-01,Coffee Maker,Home Goods,131.09,15,West
+2023-01-01,Coffee Maker,Electronics,170.0,17,South
+2023-01-01,Coffee Maker,Electronics,311.98,2,West
+2023-01-01,Sofa,Home Goods,399.62,8,West
+2023-01-01,Jacket,Home Goods,274.74,2,East
+2023-01-01,Smartphone,Home Goods,438.3,19,East
+2023-01-01,Smartphone,Clothing,386.05,7,West
+2023-01-01,Laptop,Electronics,391.58,18,West
+2023-01-02,Jeans,Clothing,191.82,19,South
+2023-01-02,Laptop,Electronics,75.98,6,South
+2023-01-02,Jeans,Electronics,152.82,5,North
+2023-01-02,Headphones,Electronics,459.8,18,East
+2023-01-02,Coffee Maker,Home Goods,265.58,13,South
+2023-01-03,Jacket,Clothing,106.31,16,West
+2023-01-03,Coffee Maker,Clothing,320.5,15,North
+2023-01-03,Laptop,Clothing,252.56,2,West
+2023-01-03,Smartphone,Home Goods,369.06,6,West
+2023-01-03,Jeans,Home Goods,91.44,16,South
+2023-01-04,Sofa,Home Goods,322.47,11,West
+2023-01-04,Jacket,Electronics,356.79,7,South
+2023-01-04,T-shirt,Electronics,124.17,1,South
+2023-01-04,Headphones,Electronics,376.53,18,South
+2023-01-05,T-shirt,Electronics,470.88,11,West
+2023-01-05,Jacket,Clothing,183.06,10,West
+2023-01-05,Jacket,Electronics,298.43,8,West
+2023-01-05,Sofa,Home Goods,417.51,14,South
+2023-01-05,Coffee Maker,Home Goods,50.95,3,South
+2023-01-05,Smartphone,Clothing,461.87,9,West
+2023-01-06,Laptop,Electronics,365.39,4,West
+2023-01-06,Coffee Maker,Clothing,217.02,14,West
+2023-01-06,Blender,Home Goods,491.92,9,South
+2023-01-06,Sofa,Clothing,438.53,5,South
+2023-01-07,Blender,Clothing,243.55,7,West
+2023-01-07,Smartphone,Electronics,319.6,19,West
+2023-01-08,Headphones,Electronics,374.25,2,East
+2023-01-08,Laptop,Home Goods,217.49,19,East
+2023-01-08,Sofa,Home Goods,474.34,9,South
+2023-01-08,Jeans,Clothing,438.78,14,East
+2023-01-08,Smartphone,Electronics,229.6,8,East
+2023-01-08,Coffee Maker,Home Goods,396.85,13,East
+2023-01-08,T-shirt,Home Goods,297.19,2,West
+2023-01-08,Jacket,Home Goods,381.9,1,East
+2023-01-09,Jacket,Home Goods,455.62,5,West
+2023-01-09,Jeans,Home Goods,291.65,19,East
+2023-01-09,T-shirt,Clothing,242.38,7,South
+2023-01-09,Smartphone,Electronics,92.15,12,East
+2023-01-09,Headphones,Electronics,427.17,11,North
+2023-01-10,Coffee Maker,Clothing,417.38,6,East
+2023-01-10,T-shirt,Home Goods,76.87,11,North
+2023-01-11,Headphones,Clothing,58.91,19,North
+2023-01-11,Laptop,Electronics,378.87,16,North
+2023-01-12,T-shirt,Electronics,406.27,4,West
+2023-01-12,Headphones,Electronics,63.35,8,West
+2023-01-12,Sofa,Clothing,189.5,17,East
+2023-01-12,Jacket,Electronics,468.77,19,West
+2023-01-12,Sofa,Home Goods,329.41,13,West
+2023-01-12,Coffee Maker,Clothing,73.35,13,South
+2023-01-12,Smartphone,Home Goods,366.71,11,South
+2023-01-12,Jacket,Electronics,114.97,2,North
+2023-01-13,Jeans,Electronics,87.22,7,West
+2023-01-13,Jeans,Home Goods,112.49,5,East
+2023-01-13,Jeans,Electronics,401.61,12,North
+2023-01-13,Laptop,Clothing,381.69,13,South
+2023-01-14,Coffee Maker,Clothing,289.09,10,West
+2023-01-14,Jeans,Electronics,155.38,17,North
+2023-01-14,Coffee Maker,Home Goods,487.59,14,East
+2023-01-15,Smartphone,Clothing,168.2,5,North
+2023-01-15,Coffee Maker,Clothing,233.74,4,East
+2023-01-15,Blender,Clothing,330.13,1,West
+2023-01-15,Coffee Maker,Home Goods,349.38,11,West
+2023-01-15,Jeans,Electronics,148.3,17,East
+2023-01-15,Sofa,Clothing,439.62,6,East
+2023-01-16,Sofa,Home Goods,109.18,18,South
+2023-01-16,Laptop,Clothing,146.03,3,North
+2023-01-16,Blender,Electronics,328.88,6,North
+2023-01-17,Coffee Maker,Clothing,425.93,18,East
+2023-01-17,Jacket,Electronics,374.77,2,North
+2023-01-17,Sofa,Home Goods,265.22,6,West
+2023-01-17,Jacket,Home Goods,498.32,13,South
+2023-01-18,T-shirt,Clothing,198.68,19,South
+2023-01-18,Smartphone,Clothing,254.28,18,South
+2023-01-19,Headphones,Clothing,281.61,17,East
+2023-01-19,T-shirt,Clothing,77.6,8,North
+2023-01-19,Coffee Maker,Electronics,420.49,1,South
+2023-01-19,Jeans,Electronics,258.48,16,South
+2023-01-20,T-shirt,Electronics,108.47,1,West
+2023-01-20,Sofa,Electronics,307.31,13,East
+2023-01-21,Jacket,Home Goods,79.02,14,West
+2023-01-21,Sofa,Home Goods,439.34,10,East
+2023-01-21,Headphones,Electronics,413.33,14,East
+2023-01-21,Blender,Home Goods,256.53,15,East
+2023-01-21,Laptop,Home Goods,418.91,12,North
+2023-01-21,Laptop,Electronics,359.33,7,East
+2023-01-21,Headphones,Electronics,487.75,12,North
+2023-01-22,Smartphone,Electronics,215.48,8,South
+2023-01-22,Sofa,Clothing,443.18,10,West
+2023-01-22,Jacket,Home Goods,491.81,15,West
+2023-01-22,Smartphone,Home Goods,471.69,3,East
+2023-01-23,Coffee Maker,Electronics,263.03,1,South
+2023-01-23,Sofa,Clothing,427.22,14,West
+2023-01-23,Coffee Maker,Home Goods,196.36,13,North
+2023-01-23,Coffee Maker,Electronics,482.08,9,West
+2023-01-24,T-shirt,Home Goods,321.83,11,West
+2023-01-24,T-shirt,Clothing,186.44,10,South
+2023-01-24,Jacket,Electronics,169.78,12,East
+2023-01-24,T-shirt,Clothing,89.69,10,West
+2023-01-24,Jacket,Home Goods,453.23,5,West
+2023-01-25,Laptop,Home Goods,329.92,18,South
+2023-01-25,Blender,Electronics,177.49,15,South
+2023-01-25,Headphones,Clothing,419.64,6,South
+2023-01-26,Blender,Clothing,261.29,11,South
+2023-01-26,T-shirt,Electronics,136.14,6,North
+2023-01-26,T-shirt,Home Goods,453.08,17,North
+2023-01-26,Smartphone,Home Goods,403.94,15,West
+2023-01-27,Blender,Clothing,68.25,4,South
+2023-01-27,Laptop,Clothing,445.09,11,North
+2023-01-27,Jacket,Home Goods,294.14,12,East
+2023-01-27,Sofa,Electronics,375.42,15,South
+2023-01-27,Jeans,Electronics,295.03,15,East
+2023-01-27,Blender,Clothing,176.15,14,West
+2023-01-28,Headphones,Clothing,418.19,18,East
+2023-01-28,Laptop,Clothing,383.44,6,East
+2023-01-28,T-shirt,Home Goods,251.98,10,East
+2023-01-28,Headphones,Electronics,408.9,10,West
+2023-01-28,Sofa,Clothing,297.11,17,South
+2023-01-28,Blender,Clothing,87.98,12,West
+2023-01-28,T-shirt,Electronics,495.54,17,North
+2023-01-29,Sofa,Clothing,319.41,17,East
+2023-01-29,Laptop,Clothing,87.94,3,North
+2023-01-29,Blender,Clothing,477.08,11,North
+2023-01-29,Smartphone,Clothing,305.64,1,East
+2023-01-29,Laptop,Clothing,317.21,10,East
+2023-01-30,Jacket,Clothing,471.32,8,North
+2023-01-30,Jeans,Electronics,81.9,3,East
+2023-01-30,Jeans,Home Goods,349.25,14,South
+2023-01-30,Laptop,Electronics,321.38,2,North
+2023-01-30,Laptop,Clothing,147.22,16,West
+2023-01-30,Sofa,Clothing,61.02,12,East
+2023-02-01,Coffee Maker,Electronics,303.48,14,South
+2023-02-01,Jeans,Clothing,297.32,2,South
+2023-02-01,Headphones,Home Goods,429.91,16,South
+2023-02-02,Laptop,Home Goods,201.8,2,East
+2023-02-02,Laptop,Clothing,471.82,8,South
+2023-02-02,Laptop,Clothing,51.04,7,East
+2023-02-02,Jacket,Home Goods,69.97,3,West
+2023-02-02,Sofa,Clothing,70.18,12,North
+2023-02-02,Jeans,Clothing,334.64,11,West
+2023-02-02,T-shirt,Clothing,491.86,17,North
+2023-02-03,Laptop,Clothing,275.04,16,East
+2023-02-03,Laptop,Clothing,376.19,16,North
+2023-02-03,Smartphone,Home Goods,360.4,12,North
+2023-02-03,T-shirt,Electronics,351.8,6,South
+2023-02-03,T-shirt,Home Goods,495.59,19,East
+2023-02-04,Sofa,Electronics,131.14,14,South
+2023-02-04,Smartphone,Clothing,64.69,19,South
+2023-02-04,Jeans,Electronics,371.48,6,North
+2023-02-04,Jacket,Clothing,166.18,2,South
+2023-02-04,Laptop,Clothing,100.82,12,South
+2023-02-05,Smartphone,Electronics,304.24,8,West
+2023-02-05,Smartphone,Home Goods,474.14,10,East
+2023-02-05,Smartphone,Electronics,275.97,3,South
+2023-02-05,T-shirt,Clothing,208.67,17,East
+2023-02-05,Sofa,Electronics,364.24,8,West
+2023-02-06,Jeans,Clothing,397.89,16,West
+2023-02-06,Jeans,Electronics,118.55,8,North
+2023-02-06,Coffee Maker,Electronics,477.1,18,South
+2023-02-06,Blender,Home Goods,225.44,15,East
+2023-02-07,T-shirt,Home Goods,218.1,11,South
+2023-02-07,Coffee Maker,Electronics,295.42,11,East
+2023-02-07,Coffee Maker,Home Goods,414.13,5,South
+2023-02-07,Smartphone,Clothing,62.23,9,South
+2023-02-08,Coffee Maker,Home Goods,466.48,16,South
+2023-02-08,Jacket,Home Goods,444.81,5,West
+2023-02-08,Blender,Electronics,454.75,14,South
+2023-02-08,Jacket,Clothing,318.19,6,South
+2023-02-08,Headphones,Clothing,371.77,12,North
+2023-02-08,Sofa,Clothing,212.98,15,North
+2023-02-08,Laptop,Clothing,185.22,11,East
+2023-02-09,Jeans,Electronics,171.03,17,North
+2023-02-10,Coffee Maker,Clothing,429.48,18,East
+2023-02-10,Smartphone,Clothing,252.71,16,West
+2023-02-10,Jeans,Home Goods,178.05,8,East
+2023-02-11,Headphones,Clothing,109.57,5,East
+2023-02-11,Laptop,Clothing,427.92,5,West
+2023-02-11,Jacket,Clothing,348.2,17,North
+2023-02-12,Laptop,Clothing,392.49,4,North
+2023-02-12,T-shirt,Clothing,135.07,18,West
+2023-02-12,Smartphone,Clothing,460.18,4,South
+2023-02-13,Jeans,Electronics,459.56,13,North
+2023-02-13,T-shirt,Electronics,404.96,13,West
+2023-02-13,Jacket,Electronics,221.31,17,South
+2023-02-13,Sofa,Electronics,209.42,17,South
+2023-02-14,Jacket,Home Goods,496.07,3,East
+2023-02-14,Coffee Maker,Home Goods,140.49,7,East
+2023-02-14,Jacket,Electronics,261.38,16,North
+2023-02-14,Blender,Clothing,377.04,17,South
+2023-02-15,Sofa,Electronics,312.47,11,West
+2023-02-15,Sofa,Clothing,392.38,9,East
+2023-02-15,Smartphone,Electronics,350.08,5,West
+2023-02-15,Jacket,Home Goods,238.73,17,North
+2023-02-15,Jacket,Home Goods,482.68,4,West
+2023-02-16,Headphones,Clothing,354.72,9,East
+2023-02-16,Jeans,Home Goods,162.29,4,North
+2023-02-16,Laptop,Home Goods,282.92,16,North
+2023-02-16,Smartphone,Home Goods,445.66,11,East
+2023-02-16,Jacket,Clothing,62.74,4,North
+2023-02-16,Laptop,Clothing,368.82,13,South
+2023-02-16,Laptop,Clothing,408.31,12,East
+2023-02-17,Coffee Maker,Clothing,260.05,11,East
+2023-02-17,Headphones,Clothing,486.84,13,West
+2023-02-17,Headphones,Clothing,186.1,9,South
+2023-02-17,Jeans,Electronics,465.81,1,North
+2023-02-17,Sofa,Electronics,252.77,15,West
+2023-02-17,Smartphone,Home Goods,393.04,7,North
+2023-02-17,Coffee Maker,Clothing,95.42,2,North
+2023-02-17,Headphones,Electronics,200.03,8,North
+2023-02-18,Jacket,Home Goods,127.44,6,West
+2023-02-18,Blender,Home Goods,301.63,13,North
+2023-02-18,Jeans,Home Goods,499.76,4,East
+2023-02-18,T-shirt,Clothing,159.0,18,South
+2023-02-19,Sofa,Home Goods,61.31,15,West
+2023-02-19,Blender,Home Goods,338.73,12,East
+2023-02-19,Smartphone,Electronics,72.72,17,North
+2023-02-19,Laptop,Clothing,260.14,10,South
+2023-02-20,Jacket,Clothing,142.0,10,North
+2023-02-20,Jacket,Electronics,378.61,10,East
+2023-02-20,Laptop,Clothing,365.02,17,East
+2023-02-20,Laptop,Electronics,409.87,2,East
+2023-02-20,Jacket,Clothing,305.23,12,South
+2023-02-20,Smartphone,Electronics,164.4,8,East
+2023-02-20,Blender,Home Goods,384.27,7,East
+2023-02-20,Jeans,Home Goods,226.84,3,East
+2023-02-21,Headphones,Clothing,417.54,10,South
+2023-02-21,T-shirt,Home Goods,194.49,8,North
+2023-02-21,Smartphone,Clothing,327.76,12,South
+2023-02-21,Jeans,Electronics,223.64,15,East
+2023-02-21,T-shirt,Clothing,280.72,12,South
+2023-02-21,Coffee Maker,Clothing,468.86,7,South
+2023-02-22,Smartphone,Electronics,51.3,2,West
+2023-02-22,Laptop,Clothing,67.89,17,South
+2023-02-22,Blender,Home Goods,243.13,7,South
+2023-02-22,Jeans,Electronics,473.57,16,North
+2023-02-22,Headphones,Home Goods,308.23,8,North
+2023-02-22,Smartphone,Home Goods,411.06,19,West
+2023-02-22,Coffee Maker,Home Goods,141.81,2,West
+2023-02-22,Sofa,Clothing,227.95,8,East
+2023-02-23,Laptop,Clothing,264.19,6,West
+2023-02-23,Blender,Electronics,411.58,4,North
+2023-02-23,Sofa,Electronics,322.59,4,West
+2023-02-23,Headphones,Home Goods,126.76,2,South
+2023-02-23,Jeans,Home Goods,149.34,13,East
+2023-02-23,Jacket,Clothing,303.65,15,West
+2023-02-23,Jeans,Clothing,299.6,2,West
+2023-02-23,Jacket,Home Goods,111.89,19,East
+2023-02-23,T-shirt,Home Goods,289.36,18,South
+2023-02-24,Sofa,Electronics,421.04,1,West
+2023-02-24,Laptop,Electronics,66.17,5,West
+2023-02-24,Laptop,Clothing,221.65,17,East
+2023-02-25,Smartphone,Clothing,275.68,16,East
+2023-02-25,Jacket,Home Goods,499.79,15,East
+2023-02-25,Sofa,Home Goods,176.47,15,West
+2023-02-26,Sofa,Clothing,352.43,10,East
+2023-02-26,Blender,Home Goods,108.47,9,South
+2023-02-26,Smartphone,Home Goods,456.01,13,South
+2023-02-27,Smartphone,Home Goods,263.93,13,North
+2023-02-27,Headphones,Clothing,198.61,7,South
+2023-02-27,Jeans,Home Goods,171.04,19,West
+2023-02-27,T-shirt,Home Goods,336.69,11,East
+2023-02-27,Smartphone,Electronics,336.44,16,East
+2023-02-27,Coffee Maker,Clothing,294.71,13,South
+2023-02-27,T-shirt,Home Goods,427.76,9,South
+2023-02-27,Jeans,Electronics,447.23,17,South
+2023-02-27,Sofa,Clothing,117.32,3,South
+2023-02-28,T-shirt,Home Goods,243.74,16,East
+2023-02-28,Jacket,Electronics,340.58,13,East
+2023-02-28,Blender,Electronics,332.71,14,West
+2023-03-01,Headphones,Clothing,385.64,17,South
+2023-03-01,Coffee Maker,Home Goods,436.53,16,South
+2023-03-01,Sofa,Home Goods,468.9,13,East
+2023-03-01,Coffee Maker,Electronics,401.98,16,South
+2023-03-01,Sofa,Electronics,331.78,9,West
+2023-03-02,Jeans,Clothing,235.1,19,South
+2023-03-02,Blender,Electronics,171.06,3,West
+2023-03-02,Laptop,Clothing,52.74,11,East
+2023-03-02,Headphones,Home Goods,100.35,11,East
+2023-03-02,Blender,Clothing,189.54,5,North
+2023-03-02,Sofa,Clothing,242.37,4,North
+2023-03-03,Jacket,Clothing,419.01,4,South
+2023-03-03,Jeans,Clothing,216.52,6,West
+2023-03-03,Blender,Home Goods,124.34,4,West
+2023-03-03,Smartphone,Clothing,220.51,7,South
+2023-03-03,Jacket,Electronics,459.98,13,West
+2023-03-03,Smartphone,Electronics,219.64,4,North
+2023-03-04,Coffee Maker,Electronics,233.95,17,South
+2023-03-04,Sofa,Electronics,429.77,19,West
+2023-03-04,Jeans,Home Goods,235.24,3,East
+2023-03-04,Smartphone,Clothing,175.3,17,South
+2023-03-04,Headphones,Electronics,455.14,16,South
+2023-03-04,Blender,Electronics,350.09,1,South
+2023-03-05,Smartphone,Clothing,83.41,17,South
+2023-03-06,Coffee Maker,Home Goods,251.36,9,West
+2023-03-06,Blender,Electronics,458.24,16,South
+2023-03-06,Blender,Electronics,257.0,16,North
+2023-03-06,Sofa,Clothing,153.61,2,West
+2023-03-06,Blender,Electronics,161.38,4,South
+2023-03-07,Laptop,Home Goods,468.58,18,West
+2023-03-07,Jeans,Electronics,288.5,17,North
+2023-03-07,Jacket,Home Goods,325.52,7,North
+2023-03-08,Laptop,Electronics,373.91,5,South
+2023-03-08,Headphones,Electronics,286.83,14,North
+2023-03-08,Blender,Home Goods,273.79,6,West
+2023-03-09,Smartphone,Clothing,287.25,4,West
+2023-03-09,Laptop,Clothing,425.97,8,West
+2023-03-10,Smartphone,Electronics,142.24,6,North
+2023-03-10,T-shirt,Home Goods,352.24,8,West
+2023-03-10,Jeans,Home Goods,222.16,17,North
+2023-03-10,Smartphone,Clothing,75.97,8,West
+2023-03-10,Jacket,Home Goods,323.09,3,East
+2023-03-10,Sofa,Home Goods,296.77,3,West
+2023-03-10,Coffee Maker,Home Goods,296.09,5,North
+2023-03-11,Blender,Electronics,223.3,13,East
+2023-03-11,Coffee Maker,Clothing,421.15,6,South
+2023-03-11,Smartphone,Clothing,427.35,11,North
+2023-03-11,Laptop,Electronics,425.14,19,West
+2023-03-12,Smartphone,Clothing,119.44,12,North
+2023-03-12,Smartphone,Electronics,315.89,12,South
+2023-03-12,Jeans,Home Goods,71.44,17,North
+2023-03-13,Jeans,Electronics,308.65,2,East
+2023-03-13,T-shirt,Home Goods,127.45,11,North
+2023-03-13,Laptop,Electronics,456.62,10,South
+2023-03-14,Smartphone,Electronics,233.43,1,East
+2023-03-14,Jacket,Clothing,444.76,10,South
+2023-03-15,Coffee Maker,Home Goods,247.27,19,North
+2023-03-15,Sofa,Electronics,113.98,2,North
+2023-03-15,Jeans,Electronics,185.86,19,North
+2023-03-15,Jacket,Home Goods,196.85,13,North
+2023-03-16,T-shirt,Clothing,145.89,15,West
+2023-03-16,Headphones,Clothing,417.53,8,North
+2023-03-16,Blender,Home Goods,233.0,4,South
+2023-03-16,Coffee Maker,Home Goods,244.12,11,East
+2023-03-16,Blender,Home Goods,255.19,18,East
+2023-03-16,Laptop,Electronics,443.4,10,East
+2023-03-17,Laptop,Home Goods,303.5,12,South
+2023-03-17,Jeans,Clothing,50.2,14,South
+2023-03-17,Blender,Clothing,199.44,9,East
+2023-03-19,Sofa,Electronics,490.53,14,North
+2023-03-19,Sofa,Home Goods,319.48,14,West
+2023-03-20,Jeans,Clothing,293.9,5,North
+2023-03-20,T-shirt,Electronics,146.6,16,West
+2023-03-21,Jeans,Home Goods,431.24,13,South
+2023-03-21,Laptop,Clothing,332.8,8,East
+2023-03-21,Laptop,Electronics,209.69,4,South
+2023-03-22,Headphones,Electronics,258.28,2,West
+2023-03-22,Blender,Electronics,256.37,19,North
+2023-03-22,Blender,Electronics,97.37,6,North
+2023-03-22,Sofa,Home Goods,282.39,1,North
+2023-03-22,Laptop,Electronics,197.17,13,East
+2023-03-22,Jacket,Clothing,79.11,10,East
+2023-03-23,Smartphone,Home Goods,63.86,3,South
+2023-03-23,Sofa,Clothing,152.03,18,North
+2023-03-23,Headphones,Clothing,223.53,4,North
+2023-03-23,Smartphone,Electronics,196.62,2,East
+2023-03-23,Laptop,Home Goods,451.17,1,West
+2023-03-24,Jacket,Electronics,489.7,10,West
+2023-03-24,Sofa,Clothing,213.96,6,West
+2023-03-24,Smartphone,Electronics,266.7,15,East
+2023-03-25,T-shirt,Home Goods,405.12,19,South
+2023-03-25,T-shirt,Clothing,498.26,18,East
+2023-03-25,T-shirt,Home Goods,153.13,10,East
+2023-03-25,T-shirt,Home Goods,413.61,11,East
+2023-03-25,Smartphone,Electronics,287.27,17,South
+2023-03-25,Sofa,Clothing,298.4,16,West
+2023-03-26,Sofa,Home Goods,225.81,5,North
+2023-03-26,Coffee Maker,Clothing,296.5,9,North
+2023-03-26,Coffee Maker,Electronics,118.55,13,East
+2023-03-26,Blender,Home Goods,102.68,15,South
+2023-03-27,Smartphone,Electronics,112.6,4,East
+2023-03-27,Coffee Maker,Home Goods,335.45,14,West
+2023-03-27,Blender,Clothing,70.73,1,North
+2023-03-27,Jacket,Home Goods,337.04,9,East
+2023-03-27,Headphones,Electronics,462.56,12,North
+2023-03-27,Jeans,Electronics,338.84,9,South
+2023-03-27,Laptop,Clothing,470.75,1,East
+2023-03-27,Sofa,Home Goods,92.77,8,West
+2023-03-28,Sofa,Electronics,111.11,16,West
+2023-03-29,Laptop,Electronics,434.36,9,West
+2023-03-29,Jacket,Clothing,58.1,3,South
+2023-03-29,Headphones,Clothing,126.09,10,East
+2023-03-30,Coffee Maker,Electronics,495.06,2,South
+2023-03-30,Jeans,Clothing,254.71,13,South
+2023-03-30,Laptop,Electronics,329.61,5,North
+2023-03-30,Headphones,Clothing,263.43,19,South
+2023-03-31,Smartphone,Clothing,359.62,8,South
+2023-03-31,Smartphone,Home Goods,423.81,15,East
+2023-03-31,Sofa,Clothing,302.39,3,West
+2023-03-31,Coffee Maker,Home Goods,256.31,18,East
+2023-03-31,T-shirt,Clothing,315.69,15,North
+2023-03-31,Blender,Electronics,111.65,18,South
+2023-03-31,Sofa,Electronics,224.26,19,East
+2023-03-31,Headphones,Electronics,402.79,2,West
+2023-03-31,Headphones,Electronics,410.16,2,North
+2023-03-31,Headphones,Clothing,178.38,14,West
+2023-04-01,Coffee Maker,Clothing,296.02,14,South
+2023-04-01,Jeans,Home Goods,472.84,16,West
+2023-04-02,Sofa,Home Goods,65.75,7,North
+2023-04-02,Headphones,Electronics,69.03,3,West
+2023-04-02,Coffee Maker,Home Goods,401.91,15,East
+2023-04-02,Sofa,Clothing,418.11,14,South
+2023-04-02,Blender,Home Goods,114.77,10,South
+2023-04-02,Jacket,Electronics,267.13,7,North
+2023-04-02,Blender,Clothing,308.01,15,West
+2023-04-02,T-shirt,Clothing,224.33,13,North
+2023-04-03,Sofa,Home Goods,422.07,3,West
+2023-04-03,Jacket,Clothing,393.42,1,South
+2023-04-03,Jeans,Clothing,59.91,8,South
+2023-04-03,Laptop,Clothing,266.6,8,South
+2023-04-03,Coffee Maker,Home Goods,184.3,15,North
+2023-04-03,Headphones,Clothing,494.45,5,West
+2023-04-03,Smartphone,Electronics,131.78,19,North
+2023-04-04,Sofa,Home Goods,354.01,2,North
+2023-04-04,Jeans,Home Goods,370.83,18,South
+2023-04-04,Blender,Clothing,341.47,3,South
+2023-04-05,Headphones,Home Goods,467.9,17,North
+2023-04-05,Smartphone,Electronics,241.15,15,South
+2023-04-05,Headphones,Home Goods,102.29,19,East
+2023-04-05,Blender,Electronics,317.91,18,South
+2023-04-05,Blender,Electronics,297.04,8,East
+2023-04-05,T-shirt,Home Goods,404.04,7,East
+2023-04-06,Blender,Electronics,231.91,4,North
+2023-04-06,Smartphone,Clothing,387.43,9,East
+2023-04-06,Sofa,Clothing,302.58,1,South
+2023-04-06,Headphones,Clothing,444.94,2,South
+2023-04-06,T-shirt,Clothing,228.85,4,West
+2023-04-06,Headphones,Home Goods,499.87,16,West
+2023-04-06,Sofa,Electronics,475.99,4,East
+2023-04-06,Jeans,Electronics,478.8,19,East
+2023-04-07,Coffee Maker,Home Goods,187.76,17,North
+2023-04-07,Laptop,Home Goods,265.05,17,East
+2023-04-08,Blender,Clothing,63.92,3,East
+2023-04-08,Jacket,Electronics,304.08,16,East
+2023-04-08,Coffee Maker,Clothing,332.37,17,West
+2023-04-08,Coffee Maker,Home Goods,87.76,9,East
+2023-04-09,Smartphone,Clothing,209.77,9,East
+2023-04-09,Headphones,Electronics,354.89,14,West
+2023-04-09,Coffee Maker,Electronics,389.31,17,South
+2023-04-09,Jacket,Home Goods,249.96,3,North
+2023-04-09,Laptop,Home Goods,393.61,12,East
+2023-04-09,Headphones,Clothing,250.79,4,West
+2023-04-09,Coffee Maker,Electronics,378.44,17,South
+2023-04-09,Laptop,Home Goods,148.67,10,South
+2023-04-09,T-shirt,Clothing,316.86,5,East
+2023-04-09,Sofa,Electronics,389.58,5,West
+2023-04-09,Jacket,Clothing,230.59,8,West
+2023-04-09,Jacket,Clothing,51.43,1,North
+2023-04-09,Smartphone,Home Goods,312.47,15,West
+2023-04-10,Sofa,Electronics,220.78,16,South
+2023-04-10,Blender,Clothing,369.56,8,West
+2023-04-10,Blender,Clothing,311.99,10,East
+2023-04-10,Headphones,Home Goods,164.22,6,East
+2023-04-11,Headphones,Home Goods,327.16,6,West
+2023-04-11,Headphones,Home Goods,360.54,6,East
+2023-04-11,Sofa,Electronics,321.48,12,North
+2023-04-11,Smartphone,Home Goods,146.28,14,East
+2023-04-11,Jacket,Electronics,428.78,8,South
+2023-04-11,Sofa,Clothing,335.49,3,North
+2023-04-11,Coffee Maker,Electronics,183.53,13,West
+2023-04-12,Blender,Home Goods,120.8,15,East
+2023-04-12,T-shirt,Home Goods,403.37,5,East
+2023-04-13,Laptop,Electronics,53.01,8,West
+2023-04-13,Coffee Maker,Clothing,76.59,5,North
+2023-04-13,Coffee Maker,Clothing,237.11,8,East
+2023-04-13,Jeans,Home Goods,423.31,8,East
+2023-04-13,Sofa,Clothing,310.67,18,East
+2023-04-13,T-shirt,Clothing,212.17,4,West
+2023-04-14,Jeans,Electronics,258.43,5,South
+2023-04-14,T-shirt,Clothing,264.42,18,East
+2023-04-14,Headphones,Electronics,406.63,10,North
+2023-04-14,Blender,Home Goods,448.23,6,East
+2023-04-14,Coffee Maker,Clothing,152.03,1,South
+2023-04-14,Jeans,Clothing,172.2,9,South
+2023-04-14,Headphones,Home Goods,351.92,18,East
+2023-04-14,Laptop,Clothing,362.5,10,West
+2023-04-15,Blender,Electronics,338.29,6,East
+2023-04-15,T-shirt,Home Goods,434.84,15,West
+2023-04-15,Headphones,Home Goods,200.06,12,East
+2023-04-15,Jacket,Electronics,226.34,1,North
+2023-04-16,Laptop,Electronics,274.12,10,North
+2023-04-16,Jacket,Home Goods,203.37,13,North
+2023-04-16,Blender,Clothing,356.99,18,East
+2023-04-17,Blender,Clothing,391.66,12,West
+2023-04-17,Smartphone,Clothing,55.17,12,North
+2023-04-18,Headphones,Electronics,180.51,13,West
+2023-04-18,Blender,Clothing,229.72,10,West
+2023-04-18,Jeans,Electronics,133.71,6,South
+2023-04-18,Jeans,Electronics,177.72,18,North
+2023-04-19,Blender,Clothing,190.79,10,East
+2023-04-19,Laptop,Home Goods,445.77,13,West
+2023-04-19,Headphones,Home Goods,488.47,13,South
+2023-04-19,Smartphone,Clothing,447.99,10,North
+2023-04-19,Sofa,Home Goods,441.39,3,South
+2023-04-20,Laptop,Home Goods,135.42,16,East
+2023-04-20,Coffee Maker,Home Goods,165.22,6,South
+2023-04-21,Jacket,Clothing,334.44,10,North
+2023-04-21,Jacket,Home Goods,346.47,8,North
+2023-04-21,Jacket,Electronics,57.12,2,North
+2023-04-21,Blender,Electronics,51.31,17,South
+2023-04-21,Jacket,Home Goods,335.95,4,West
+2023-04-22,Smartphone,Home Goods,412.14,16,South
+2023-04-22,Jeans,Home Goods,286.59,13,East
+2023-04-22,Coffee Maker,Electronics,67.09,4,East
+2023-04-22,Jeans,Electronics,76.76,16,East
+2023-04-23,Jeans,Home Goods,333.82,17,North
+2023-04-23,Laptop,Home Goods,249.56,15,West
+2023-04-23,Smartphone,Clothing,288.99,1,East
+2023-04-23,Coffee Maker,Home Goods,311.1,1,North
+2023-04-23,Headphones,Clothing,154.42,15,North
+2023-04-23,Headphones,Electronics,297.2,10,East
+2023-04-23,Sofa,Home Goods,106.41,7,East
+2023-04-23,Sofa,Electronics,487.41,15,South
+2023-04-23,Laptop,Home Goods,402.99,12,West
+2023-04-23,Jacket,Home Goods,421.92,10,South
+2023-04-23,Coffee Maker,Clothing,282.76,10,South
+2023-04-24,Laptop,Home Goods,274.21,18,East
+2023-04-24,Coffee Maker,Home Goods,488.57,13,South
+2023-04-24,Smartphone,Clothing,180.49,8,North
+2023-04-25,Laptop,Clothing,287.25,8,East
+2023-04-25,Headphones,Electronics,445.7,15,North
+2023-04-25,Blender,Clothing,210.19,19,North
+2023-04-25,Jacket,Clothing,81.06,16,South
+2023-04-25,Laptop,Home Goods,353.81,19,West
+2023-04-26,Smartphone,Home Goods,452.5,12,West
+2023-04-26,Headphones,Electronics,378.72,10,South
+2023-04-26,Jeans,Home Goods,146.58,17,East
+2023-04-26,Jeans,Electronics,118.21,13,South
+2023-04-26,Coffee Maker,Home Goods,151.83,16,North
+2023-04-27,T-shirt,Electronics,245.9,13,West
+2023-04-27,Jacket,Electronics,64.68,3,West
+2023-04-27,Sofa,Electronics,170.26,18,North
+2023-04-27,Headphones,Electronics,225.39,7,North
+2023-04-27,Sofa,Clothing,393.12,15,North
+2023-04-27,T-shirt,Home Goods,158.85,18,South
+2023-04-27,Smartphone,Home Goods,94.21,15,East
+2023-04-27,Jeans,Electronics,145.0,3,South
+2023-04-28,Headphones,Electronics,70.15,14,South
+2023-04-28,Coffee Maker,Clothing,318.69,9,North
+2023-04-28,Headphones,Clothing,104.91,8,East
+2023-04-28,T-shirt,Clothing,332.6,4,East
+2023-04-28,Smartphone,Home Goods,266.84,17,East
+2023-04-28,T-shirt,Electronics,228.94,17,South
+2023-04-28,Smartphone,Electronics,256.11,3,South
+2023-04-29,Blender,Electronics,52.55,9,South
+2023-04-29,Jeans,Electronics,432.81,11,South
+2023-04-30,Jeans,Home Goods,463.43,1,North
+2023-04-30,Headphones,Home Goods,285.14,12,North
+2023-04-30,Jeans,Clothing,69.35,4,East
+2023-05-01,Blender,Electronics,315.63,15,South
+2023-05-01,Blender,Electronics,84.93,10,North
+2023-05-01,Coffee Maker,Home Goods,144.51,7,North
+2023-05-02,Headphones,Clothing,116.68,1,South
+2023-05-02,Headphones,Home Goods,142.01,1,West
+2023-05-02,Laptop,Clothing,142.8,12,East
+2023-05-02,Jacket,Home Goods,190.39,8,South
+2023-05-02,Headphones,Clothing,454.48,4,East
+2023-05-02,Laptop,Clothing,457.73,5,East
+2023-05-03,Blender,Home Goods,249.86,16,West
+2023-05-03,T-shirt,Electronics,299.02,6,North
+2023-05-03,Blender,Home Goods,175.02,11,South
+2023-05-03,T-shirt,Clothing,223.85,17,North
+2023-05-04,Smartphone,Clothing,73.49,10,North
+2023-05-04,Jacket,Electronics,91.53,9,South
+2023-05-04,Coffee Maker,Electronics,181.63,8,North
+2023-05-04,Smartphone,Clothing,125.75,11,North
+2023-05-04,Headphones,Electronics,476.33,19,North
+2023-05-04,Sofa,Electronics,261.34,11,South
+2023-05-05,Headphones,Home Goods,354.25,5,South
+2023-05-06,Coffee Maker,Clothing,68.75,18,North
+2023-05-06,Headphones,Home Goods,466.54,8,East
+2023-05-06,Jeans,Clothing,72.51,5,South
+2023-05-06,Jeans,Electronics,246.87,5,South
+2023-05-06,Jacket,Home Goods,375.41,13,West
+2023-05-07,Smartphone,Clothing,379.28,6,South
+2023-05-07,Coffee Maker,Electronics,121.38,1,North
+2023-05-07,Laptop,Home Goods,369.22,8,West
+2023-05-08,Sofa,Home Goods,90.42,11,West
+2023-05-08,Jacket,Home Goods,174.31,8,West
+2023-05-08,Headphones,Electronics,380.56,19,South
+2023-05-08,Coffee Maker,Electronics,190.35,8,South
+2023-05-08,T-shirt,Clothing,80.32,8,North
+2023-05-08,Laptop,Clothing,272.6,16,North
+2023-05-08,Jacket,Clothing,440.12,4,West
+2023-05-08,Coffee Maker,Electronics,287.86,8,South
+2023-05-09,T-shirt,Electronics,231.75,12,East
+2023-05-09,Jacket,Home Goods,82.45,1,East
+2023-05-09,Smartphone,Electronics,356.34,14,South
+2023-05-09,Coffee Maker,Home Goods,381.29,13,North
+2023-05-09,Jeans,Electronics,94.69,6,North
+2023-05-09,Laptop,Clothing,257.65,11,West
+2023-05-09,Blender,Electronics,148.91,14,West
+2023-05-09,Jeans,Home Goods,72.27,7,North
+2023-05-10,Coffee Maker,Clothing,95.57,5,East
+2023-05-10,Sofa,Clothing,489.85,14,West
+2023-05-10,T-shirt,Home Goods,236.37,7,North
+2023-05-10,T-shirt,Home Goods,484.81,5,West
+2023-05-10,Laptop,Electronics,296.09,4,North
+2023-05-10,Jacket,Electronics,420.7,10,West
+2023-05-10,Jeans,Home Goods,170.5,15,North
+2023-05-11,Laptop,Electronics,324.33,4,East
+2023-05-11,Coffee Maker,Home Goods,107.98,9,West
+2023-05-11,Jeans,Home Goods,151.86,11,East
+2023-05-11,Coffee Maker,Electronics,285.1,19,South
+2023-05-11,Smartphone,Electronics,374.63,3,North
+2023-05-11,Sofa,Electronics,431.21,12,North
+2023-05-12,Sofa,Electronics,413.24,15,West
+2023-05-12,Blender,Electronics,86.99,1,South
+2023-05-12,Blender,Clothing,222.48,6,South
+2023-05-12,Laptop,Home Goods,398.26,13,West
+2023-05-12,Blender,Clothing,203.18,4,North
+2023-05-12,T-shirt,Electronics,235.7,5,West
+2023-05-12,Smartphone,Electronics,199.87,19,East
+2023-05-13,Blender,Electronics,401.45,15,South
+2023-05-13,T-shirt,Clothing,290.76,10,East
+2023-05-13,Sofa,Home Goods,355.8,8,East
+2023-05-13,Sofa,Electronics,450.53,5,East
+2023-05-13,T-shirt,Clothing,252.81,16,East
+2023-05-14,Jeans,Clothing,258.99,2,South
+2023-05-14,Smartphone,Home Goods,294.11,12,South
+2023-05-14,Blender,Home Goods,478.61,10,North
+2023-05-14,Blender,Clothing,289.62,5,South
+2023-05-15,Sofa,Electronics,422.02,17,South
+2023-05-15,Jeans,Clothing,346.6,12,East
+2023-05-15,Jeans,Electronics,289.22,19,West
+2023-05-15,Jeans,Home Goods,495.75,17,North
+2023-05-15,Jeans,Home Goods,319.46,19,North
+2023-05-16,Blender,Clothing,424.99,14,West
+2023-05-16,Headphones,Electronics,247.34,9,North
+2023-05-16,Blender,Electronics,182.86,3,West
+2023-05-16,T-shirt,Electronics,407.03,8,South
+2023-05-16,Laptop,Electronics,457.96,7,West
+2023-05-17,Smartphone,Electronics,476.98,8,South
+2023-05-17,Headphones,Clothing,420.42,8,North
+2023-05-17,Blender,Clothing,442.22,11,West
+2023-05-17,T-shirt,Home Goods,55.54,17,North
+2023-05-17,Smartphone,Electronics,96.24,16,East
+2023-05-18,Blender,Clothing,129.24,12,West
+2023-05-18,Coffee Maker,Clothing,437.59,4,South
+2023-05-18,Jeans,Home Goods,288.83,7,East
+2023-05-19,Smartphone,Clothing,398.09,16,East
+2023-05-19,Laptop,Home Goods,178.21,19,North
+2023-05-20,Blender,Electronics,174.0,8,North
+2023-05-20,Coffee Maker,Home Goods,160.61,15,South
+2023-05-20,Coffee Maker,Electronics,65.51,11,East
+2023-05-20,Laptop,Electronics,64.14,15,East
+2023-05-20,Headphones,Home Goods,123.75,19,North
+2023-05-21,Jacket,Home Goods,54.54,6,East
+2023-05-21,Laptop,Clothing,413.64,2,North
+2023-05-21,Jeans,Electronics,430.63,2,East
+2023-05-21,Headphones,Home Goods,483.04,4,South
+2023-05-21,Headphones,Clothing,103.32,12,South
+2023-05-22,T-shirt,Home Goods,340.01,8,North
+2023-05-22,Headphones,Electronics,219.79,12,North
+2023-05-22,Blender,Clothing,252.09,8,West
+2023-05-22,Smartphone,Electronics,480.34,2,East
+2023-05-22,Laptop,Clothing,372.91,14,North
+2023-05-23,Laptop,Clothing,251.97,5,West
+2023-05-23,T-shirt,Electronics,340.9,13,West
+2023-05-23,Jeans,Home Goods,102.21,7,North
+2023-05-24,Jacket,Electronics,491.05,13,North
+2023-05-24,Headphones,Home Goods,106.58,4,West
+2023-05-24,Sofa,Clothing,432.71,16,East
+2023-05-24,Coffee Maker,Electronics,240.07,12,North
+2023-05-24,Laptop,Clothing,317.66,7,West
+2023-05-24,T-shirt,Electronics,382.56,12,North
+2023-05-24,Smartphone,Home Goods,90.82,18,South
+2023-05-24,Coffee Maker,Home Goods,431.27,5,South
+2023-05-24,Jeans,Electronics,181.01,12,East
+2023-05-24,Blender,Home Goods,209.06,12,East
+2023-05-25,Blender,Home Goods,96.4,14,West
+2023-05-25,Smartphone,Electronics,422.04,15,South
+2023-05-25,Sofa,Clothing,497.69,12,North
+2023-05-25,Headphones,Clothing,88.4,17,North
+2023-05-25,Laptop,Clothing,280.73,14,North
+2023-05-25,Jacket,Clothing,497.59,14,South
+2023-05-25,Smartphone,Electronics,114.72,9,South
+2023-05-25,Jeans,Clothing,312.6,12,North
+2023-05-25,Jeans,Home Goods,367.79,2,West
+2023-05-26,Smartphone,Clothing,250.36,15,East
+2023-05-26,Laptop,Clothing,123.27,17,East
+2023-05-26,T-shirt,Clothing,373.62,12,North
+2023-05-26,Coffee Maker,Home Goods,401.33,4,East
+2023-05-26,Laptop,Clothing,158.17,12,West
+2023-05-27,Blender,Electronics,155.77,4,South
+2023-05-27,Smartphone,Clothing,334.47,18,East
+2023-05-27,Headphones,Home Goods,342.93,11,West
+2023-05-27,Laptop,Home Goods,452.59,15,North
+2023-05-27,Laptop,Home Goods,310.63,13,North
+2023-05-27,Sofa,Electronics,143.99,14,West
+2023-05-27,Jeans,Home Goods,441.02,18,West
+2023-05-27,Smartphone,Home Goods,124.36,3,West
+2023-05-27,Coffee Maker,Home Goods,271.37,9,South
+2023-05-27,Jacket,Electronics,200.12,13,West
+2023-05-28,Blender,Home Goods,303.22,1,North
+2023-05-28,Laptop,Clothing,73.36,2,South
+2023-05-28,T-shirt,Clothing,129.73,14,East
+2023-05-28,Coffee Maker,Clothing,312.34,3,West
+2023-05-28,Coffee Maker,Home Goods,379.87,11,North
+2023-05-29,Headphones,Electronics,142.43,18,South
+2023-05-29,Smartphone,Clothing,170.98,12,North
+2023-05-29,T-shirt,Home Goods,337.08,3,North
+2023-05-30,Blender,Home Goods,474.79,6,West
+2023-05-30,Sofa,Home Goods,235.74,6,South
+2023-05-31,Laptop,Clothing,468.24,8,North
+2023-05-31,Jacket,Home Goods,226.76,5,West
+2023-05-31,Laptop,Electronics,369.9,14,East
+2023-05-31,T-shirt,Electronics,237.02,11,West
+2023-05-31,Coffee Maker,Home Goods,340.74,16,East
+2023-05-31,Smartphone,Electronics,50.91,7,West
+2023-05-31,Jacket,Electronics,374.29,16,South
+2023-05-31,Jeans,Home Goods,84.72,13,South
+2023-06-01,Sofa,Clothing,457.89,3,South
+2023-06-01,T-shirt,Clothing,394.12,9,East
+2023-06-01,T-shirt,Clothing,485.17,3,South
+2023-06-01,Jacket,Clothing,248.55,7,South
+2023-06-01,Blender,Clothing,56.39,2,North
+2023-06-01,Smartphone,Clothing,280.26,3,East
+2023-06-01,Jeans,Electronics,221.73,17,North
+2023-06-01,Headphones,Clothing,376.57,8,West
+2023-06-01,Laptop,Clothing,473.2,15,North
+2023-06-02,Blender,Home Goods,201.63,12,East
+2023-06-02,Sofa,Home Goods,203.17,15,West
+2023-06-02,Jacket,Clothing,331.26,5,East
+2023-06-02,Jeans,Clothing,338.09,11,West
+2023-06-02,Sofa,Clothing,443.98,13,East
+2023-06-03,Blender,Clothing,453.95,1,East
+2023-06-03,Laptop,Electronics,203.81,10,North
+2023-06-03,Headphones,Clothing,80.75,17,East
+2023-06-03,Smartphone,Home Goods,458.32,3,South
+2023-06-04,Blender,Electronics,446.9,10,East
+2023-06-04,T-shirt,Electronics,450.34,18,East
+2023-06-04,Headphones,Electronics,315.6,11,South
+2023-06-04,Smartphone,Home Goods,164.01,18,West
+2023-06-04,Blender,Home Goods,301.54,5,North
+2023-06-05,Coffee Maker,Electronics,351.97,7,East
+2023-06-06,Headphones,Home Goods,478.86,6,West
+2023-06-06,Sofa,Home Goods,262.84,9,South
+2023-06-06,Laptop,Clothing,267.02,14,North
+2023-06-07,Blender,Home Goods,419.87,19,West
+2023-06-07,Sofa,Clothing,239.65,7,West
+2023-06-07,Laptop,Electronics,369.55,15,East
+2023-06-07,Headphones,Electronics,260.67,17,East
+2023-06-08,Headphones,Home Goods,282.05,17,West
+2023-06-08,Laptop,Home Goods,121.56,16,West
+2023-06-08,Jacket,Clothing,458.12,2,West
+2023-06-09,Smartphone,Electronics,391.83,13,North
+2023-06-09,Jeans,Clothing,181.17,11,West
+2023-06-09,Blender,Home Goods,280.81,11,East
+2023-06-09,Laptop,Home Goods,108.52,2,East
+2023-06-09,T-shirt,Clothing,389.22,19,North
+2023-06-09,Coffee Maker,Home Goods,491.74,9,East
+2023-06-09,Coffee Maker,Electronics,102.08,19,East
+2023-06-09,Laptop,Clothing,116.18,6,East
+2023-06-09,Blender,Clothing,392.86,13,West
+2023-06-10,Headphones,Electronics,293.33,13,East
+2023-06-10,Blender,Electronics,231.1,13,South
+2023-06-10,Laptop,Electronics,442.42,2,North
+2023-06-10,Smartphone,Clothing,143.29,19,West
+2023-06-10,Jeans,Home Goods,134.53,4,West
+2023-06-10,Jacket,Home Goods,210.13,3,West
+2023-06-10,Headphones,Clothing,232.59,19,East
+2023-06-10,Sofa,Clothing,70.05,6,East
+2023-06-10,Laptop,Clothing,376.24,8,East
+2023-06-10,Sofa,Home Goods,421.72,16,South
+2023-06-10,Headphones,Clothing,213.02,15,East
+2023-06-11,T-shirt,Electronics,353.94,6,East
+2023-06-11,Jeans,Clothing,497.74,16,East
+2023-06-11,Smartphone,Clothing,337.82,16,North
+2023-06-11,Jacket,Electronics,243.67,19,North
+2023-06-12,Headphones,Home Goods,380.31,2,East
+2023-06-12,Smartphone,Clothing,148.33,13,North
+2023-06-12,Blender,Electronics,228.56,15,West
+2023-06-12,Smartphone,Electronics,414.44,17,North
+2023-06-12,Coffee Maker,Home Goods,151.2,19,North
+2023-06-13,Headphones,Clothing,480.12,8,West
+2023-06-13,Headphones,Electronics,278.0,12,South
+2023-06-13,Blender,Clothing,148.6,9,East
+2023-06-13,Laptop,Electronics,463.72,16,South
+2023-06-13,Jacket,Home Goods,354.82,17,North
+2023-06-13,Blender,Electronics,316.13,14,East
+2023-06-13,Sofa,Electronics,477.14,11,South
+2023-06-14,Jeans,Electronics,461.63,15,East
+2023-06-14,Blender,Electronics,62.34,15,West
+2023-06-14,Headphones,Clothing,64.76,15,North
+2023-06-15,Sofa,Home Goods,397.54,12,North
+2023-06-15,Blender,Home Goods,412.97,14,West
+2023-06-15,Blender,Clothing,149.22,11,East
+2023-06-15,Headphones,Home Goods,382.73,5,North
+2023-06-15,Smartphone,Electronics,336.22,17,West
+2023-06-16,Jeans,Home Goods,237.17,18,East
+2023-06-16,Sofa,Electronics,226.32,3,East
+2023-06-16,T-shirt,Electronics,152.91,16,East
+2023-06-16,Coffee Maker,Clothing,444.77,15,West
+2023-06-17,T-shirt,Electronics,227.63,9,West
+2023-06-17,T-shirt,Home Goods,237.04,5,East
+2023-06-17,T-shirt,Electronics,230.42,12,West
+2023-06-17,Blender,Clothing,402.07,4,East
+2023-06-18,Laptop,Electronics,63.75,6,South
+2023-06-19,Jacket,Electronics,274.36,8,East
+2023-06-19,Jacket,Clothing,393.4,1,East
+2023-06-19,Smartphone,Home Goods,289.7,15,North
+2023-06-19,Smartphone,Clothing,423.06,16,West
+2023-06-19,Sofa,Home Goods,404.32,4,North
+2023-06-19,Headphones,Electronics,317.07,8,West
+2023-06-20,Jacket,Electronics,449.62,7,West
+2023-06-20,Headphones,Electronics,360.5,17,South
+2023-06-21,Jacket,Home Goods,190.94,13,West
+2023-06-21,Blender,Clothing,447.02,13,East
+2023-06-21,Jacket,Electronics,115.34,10,North
+2023-06-21,T-shirt,Home Goods,269.77,15,West
+2023-06-21,Blender,Home Goods,286.62,6,West
+2023-06-22,Smartphone,Electronics,59.3,4,West
+2023-06-22,Jacket,Electronics,236.51,3,South
+2023-06-22,Smartphone,Home Goods,439.95,18,North
+2023-06-22,Jacket,Clothing,141.61,3,South
+2023-06-22,Smartphone,Home Goods,283.87,3,South
+2023-06-23,Blender,Electronics,155.59,6,East
+2023-06-23,Jeans,Electronics,456.69,15,South
+2023-06-24,Blender,Clothing,103.98,3,North
+2023-06-24,Laptop,Home Goods,168.49,5,West
+2023-06-24,Smartphone,Home Goods,373.29,15,West
+2023-06-24,Jacket,Electronics,286.36,1,West
+2023-06-25,Jacket,Clothing,143.19,1,East
+2023-06-25,Jeans,Home Goods,69.87,16,West
+2023-06-25,T-shirt,Clothing,402.36,19,North
+2023-06-26,Laptop,Home Goods,322.48,13,West
+2023-06-26,Blender,Home Goods,379.46,10,East
+2023-06-26,Jacket,Home Goods,413.72,1,East
+2023-06-26,Smartphone,Clothing,134.11,9,East
+2023-06-26,Laptop,Home Goods,403.29,16,North
+2023-06-27,Sofa,Clothing,105.97,3,West
+2023-06-27,Smartphone,Clothing,433.65,11,West
+2023-06-27,T-shirt,Home Goods,339.27,11,East
+2023-06-27,Jeans,Electronics,396.83,5,North
+2023-06-27,Sofa,Home Goods,450.0,5,West
+2023-06-28,Blender,Electronics,77.28,7,East
+2023-06-28,Jeans,Electronics,149.22,4,South
+2023-06-28,Laptop,Clothing,150.47,1,East
+2023-06-28,Coffee Maker,Home Goods,297.31,15,West
+2023-06-28,Laptop,Electronics,472.58,14,North
+2023-06-29,Blender,Clothing,80.83,5,East
+2023-06-29,Laptop,Electronics,496.6,10,West
+2023-06-29,Jacket,Clothing,202.9,7,North
+2023-06-29,Jacket,Clothing,97.16,7,East
+2023-06-29,Jacket,Home Goods,157.62,11,South
+2023-06-30,Laptop,Clothing,495.66,2,North
+2023-06-30,Coffee Maker,Electronics,62.38,6,North
+2023-06-30,Jacket,Electronics,429.0,14,North
+2023-07-01,T-shirt,Electronics,468.95,6,West
+2023-07-01,Sofa,Electronics,363.11,18,North
+2023-07-01,Headphones,Home Goods,96.98,15,North
+2023-07-02,Smartphone,Home Goods,216.68,11,West
+2023-07-02,Blender,Home Goods,94.94,17,North
+2023-07-02,Jacket,Electronics,460.03,11,North
+2023-07-02,Coffee Maker,Electronics,256.21,3,East
+2023-07-03,Jacket,Home Goods,263.3,6,North
+2023-07-03,Blender,Clothing,417.76,15,East
+2023-07-03,Smartphone,Home Goods,272.08,15,South
+2023-07-03,Headphones,Clothing,301.86,5,East
+2023-07-04,Jacket,Home Goods,116.59,19,West
+2023-07-04,Sofa,Clothing,306.79,15,North
+2023-07-04,Jacket,Home Goods,302.04,3,South
+2023-07-04,T-shirt,Clothing,362.7,10,South
+2023-07-04,Jacket,Electronics,205.07,4,West
+2023-07-05,Headphones,Home Goods,427.85,8,East
+2023-07-05,Laptop,Electronics,340.07,17,East
+2023-07-05,Jacket,Electronics,57.23,10,South
+2023-07-05,Coffee Maker,Home Goods,132.26,13,West
+2023-07-05,Laptop,Electronics,388.3,9,North
+2023-07-05,Jeans,Home Goods,53.02,15,West
+2023-07-06,Jeans,Clothing,125.31,3,North
+2023-07-06,Coffee Maker,Clothing,161.11,19,West
+2023-07-06,T-shirt,Home Goods,334.81,15,East
+2023-07-06,Blender,Clothing,130.05,3,North
+2023-07-06,Jacket,Electronics,278.35,18,North
+2023-07-06,T-shirt,Clothing,127.33,7,North
+2023-07-07,Headphones,Home Goods,335.79,16,South
+2023-07-07,T-shirt,Electronics,368.46,17,West
+2023-07-07,Laptop,Electronics,163.54,11,South
+2023-07-07,Jeans,Clothing,157.49,15,West
+2023-07-07,Sofa,Electronics,65.15,7,South
+2023-07-07,Sofa,Clothing,99.94,3,North
+2023-07-08,Sofa,Clothing,435.71,13,South
+2023-07-08,Smartphone,Clothing,292.47,19,West
+2023-07-08,Blender,Home Goods,154.74,13,East
+2023-07-08,T-shirt,Home Goods,468.17,17,North
+2023-07-08,Sofa,Electronics,231.24,14,South
+2023-07-08,Blender,Electronics,70.43,14,West
+2023-07-09,Blender,Home Goods,108.32,17,North
+2023-07-09,Jacket,Clothing,109.26,7,West
+2023-07-09,Blender,Clothing,492.73,7,South
+2023-07-09,Jacket,Home Goods,437.78,11,South
+2023-07-09,Jeans,Electronics,433.33,2,South
+2023-07-09,Coffee Maker,Electronics,434.4,3,East
+2023-07-09,Blender,Clothing,70.76,6,North
+2023-07-09,Headphones,Home Goods,259.97,8,East
+2023-07-09,T-shirt,Clothing,80.75,2,South
+2023-07-09,Jacket,Electronics,104.11,8,North
+2023-07-09,Smartphone,Clothing,163.77,14,East
+2023-07-09,Blender,Clothing,296.13,16,West
+2023-07-09,Laptop,Home Goods,282.56,13,North
+2023-07-10,T-shirt,Clothing,476.65,16,North
+2023-07-10,Jacket,Clothing,172.15,13,North
+2023-07-10,Coffee Maker,Clothing,275.49,7,South
+2023-07-10,Jeans,Electronics,354.13,7,West
+2023-07-10,Smartphone,Home Goods,376.58,15,East
+2023-07-10,Coffee Maker,Home Goods,237.25,4,East
+2023-07-10,T-shirt,Home Goods,84.37,16,East
+2023-07-11,Jeans,Home Goods,428.93,2,East
+2023-07-11,Jacket,Home Goods,309.67,19,South
+2023-07-11,Headphones,Clothing,423.23,3,North
+2023-07-11,Sofa,Home Goods,107.35,10,North
+2023-07-11,Jeans,Electronics,331.34,13,East
+2023-07-11,Coffee Maker,Clothing,308.91,11,East
+2023-07-11,T-shirt,Electronics,93.88,18,West
+2023-07-12,Smartphone,Clothing,353.57,13,South
+2023-07-12,Headphones,Electronics,383.07,7,West
+2023-07-12,Sofa,Clothing,217.97,15,South
+2023-07-13,Smartphone,Electronics,164.89,1,East
+2023-07-13,Laptop,Electronics,230.65,17,South
+2023-07-13,Smartphone,Clothing,192.45,10,West
+2023-07-13,Blender,Electronics,344.3,16,West
+2023-07-13,Coffee Maker,Electronics,487.19,13,West
+2023-07-14,Sofa,Home Goods,140.25,17,South
+2023-07-14,Sofa,Electronics,404.05,9,North
+2023-07-14,Smartphone,Clothing,281.12,18,South
+2023-07-14,Coffee Maker,Clothing,295.17,11,East
+2023-07-14,Headphones,Home Goods,245.98,15,West
+2023-07-14,Jeans,Electronics,140.29,16,West
+2023-07-15,Jeans,Home Goods,373.84,6,North
+2023-07-15,Jeans,Electronics,99.0,8,East
+2023-07-16,Headphones,Electronics,413.96,8,South
+2023-07-16,Smartphone,Clothing,380.07,10,West
+2023-07-16,T-shirt,Electronics,363.99,14,North
+2023-07-16,Laptop,Clothing,486.32,18,South
+2023-07-16,T-shirt,Clothing,423.39,9,South
+2023-07-17,Smartphone,Electronics,391.71,12,North
+2023-07-17,Coffee Maker,Clothing,269.53,18,North
+2023-07-17,Smartphone,Clothing,486.83,15,South
+2023-07-18,T-shirt,Home Goods,149.1,9,West
+2023-07-18,Blender,Clothing,117.73,5,South
+2023-07-18,T-shirt,Clothing,119.21,6,North
+2023-07-19,Blender,Electronics,136.0,15,East
+2023-07-19,Blender,Home Goods,94.49,19,West
+2023-07-19,Blender,Electronics,349.32,8,South
+2023-07-19,Headphones,Home Goods,320.95,17,South
+2023-07-19,Jacket,Electronics,172.21,17,South
+2023-07-20,Jacket,Electronics,55.86,13,South
+2023-07-20,Jeans,Clothing,445.94,16,North
+2023-07-20,T-shirt,Clothing,299.97,3,North
+2023-07-20,Coffee Maker,Electronics,290.43,11,West
+2023-07-20,Jeans,Clothing,289.52,3,North
+2023-07-21,Jacket,Clothing,353.46,10,East
+2023-07-21,Smartphone,Electronics,354.39,17,West
+2023-07-21,Sofa,Clothing,252.55,14,South
+2023-07-21,Jacket,Clothing,55.17,10,North
+2023-07-21,Smartphone,Electronics,289.41,14,North
+2023-07-22,Sofa,Electronics,63.89,13,North
+2023-07-22,Jacket,Electronics,50.08,17,South
+2023-07-22,Headphones,Clothing,218.66,1,West
+2023-07-22,Coffee Maker,Clothing,63.28,13,North
+2023-07-22,Coffee Maker,Clothing,146.9,4,West
+2023-07-22,Smartphone,Electronics,212.77,7,East
+2023-07-23,Laptop,Home Goods,364.69,3,West
+2023-07-23,Headphones,Electronics,471.34,6,East
+2023-07-23,Headphones,Electronics,203.8,13,North
+2023-07-23,Laptop,Home Goods,103.49,11,South
+2023-07-23,Jeans,Home Goods,322.77,15,South
+2023-07-24,Laptop,Electronics,418.27,18,East
+2023-07-24,Jacket,Clothing,453.22,17,North
+2023-07-24,Jacket,Electronics,188.98,6,South
+2023-07-24,Headphones,Electronics,318.34,2,East
+2023-07-24,T-shirt,Clothing,161.21,10,South
+2023-07-24,Blender,Clothing,222.91,17,North
+2023-07-24,Sofa,Clothing,83.32,11,North
+2023-07-25,T-shirt,Clothing,479.68,11,West
+2023-07-25,Blender,Electronics,440.85,3,North
+2023-07-25,Sofa,Electronics,479.31,10,North
+2023-07-25,Jeans,Clothing,348.35,12,South
+2023-07-25,Laptop,Electronics,262.8,3,South
+2023-07-26,Headphones,Clothing,165.51,11,East
+2023-07-26,Smartphone,Home Goods,128.34,2,East
+2023-07-26,Sofa,Electronics,124.53,1,East
+2023-07-27,Headphones,Electronics,393.17,5,North
+2023-07-27,Sofa,Home Goods,252.43,13,South
+2023-07-27,Blender,Clothing,271.14,10,West
+2023-07-27,Coffee Maker,Clothing,233.14,7,South
+2023-07-27,T-shirt,Clothing,210.28,16,South
+2023-07-28,Jeans,Clothing,403.19,9,West
+2023-07-29,Sofa,Electronics,436.92,10,North
+2023-07-29,Sofa,Clothing,227.84,10,West
+2023-07-30,Coffee Maker,Clothing,342.85,14,West
+2023-07-31,Laptop,Electronics,243.32,5,East
